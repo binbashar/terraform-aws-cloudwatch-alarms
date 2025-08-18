@@ -36,3 +36,4 @@
 | arn | The ARN of the cloudwatch metric alarm. |
 | id | The ID of the health check. |
 | tags | A mapping of tags to assign to the resource. |
+
